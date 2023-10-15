@@ -9,7 +9,7 @@
 
 <?php
 
-print 'teste';
+print 'alteração';
 
 ?>
     
