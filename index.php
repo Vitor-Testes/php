@@ -11,8 +11,6 @@
 
 print 'alteraçãoa dasdasdasd';
 
-print 'testetesteste';
-
 print 'teste';
 print 'teste';
 
